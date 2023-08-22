@@ -14,13 +14,14 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 ## Projects
 
 - ### End to End project with Deployment
-    - [Car Price Prediction Web Application](https://github.com/zhaoshijie1248/ML_carprediction): 
+    - [Car Price Prediction Web Application](https://github.com/zhaoshijie1248/ML_carprediction):
+    - [Deploying ML models as web service to cloud](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment)
 
 - ### Machine Learning
 
-	- [Zillow house price prediction](https://github.com/zhaoshijie1248/Capstone-zillow-prediction): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Zillow house price prediction](https://github.com/zhaoshijie1248/Capstone-zillow-prediction): A model to predict the value of a given house shown on Zillow using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, _ 
 
 - ### Natural Language Processing
 
