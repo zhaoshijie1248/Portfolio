@@ -14,22 +14,25 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 ## Projects
 
 - ### End to End project with Deployment
-    - [Car Price Prediction Web Application](https://github.com/zhaoshijie1248/ML_carprediction):
-    - [Deploying ML models as web service to cloud](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment)
+    
 
 - ### Machine Learning
-
+	- [Car Price Prediction Web Application](https://github.com/zhaoshijie1248/ML_carprediction):
+    - [Deploying ML models as web service to cloud](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment)
 	- [Zillow house price prediction](https://github.com/zhaoshijie1248/Capstone-zillow-prediction): A model to predict the value of a given house shown on Zillow using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, _ 
 
 - ### Natural Language Processing
 
-	- [Disaster Response Classifier using NLP](https://github.com/zhaoshijie1248/Disaster-Response-Pipeline-Construct-using-NLP): A multilabel classification model to predict the categories of a disaster message. Includes an ETL pipeline for data processing, a ML pipeline to train the model, and a web app, with visualizations, where the model can be used to classify messages. 
+	 
     
     _Tools: NLTK, Scikit-learn, XGBoost, Flask, Plotly_
 
-
+- ### Computer Vision
+  - [Cell Segmentation Using Yolo V8 With Deployment] ()
+ 
+    
 - ### Data Engineering
     - [NYC Taxi Bigquery](https://github.com/zhaoshijie1248/NYC-Taxi-Bigquery):
     - [Twitter Big Data Pipeline](https://github.com/zhaoshijie1248/Twitter-Big-Data-Pipeline):
