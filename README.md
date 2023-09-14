@@ -15,19 +15,22 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 
 - ### End to End project with Deployment
     - [Deploying ML models as web service to cloud](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment)
+    - [Movie Recommendation Web Application](https://github.com/zhaoshijie1248/Movie-Recommend)
+ 
+      _Tools: scikit-learn, Pandas, Seaborn, Matplotlib,_ 
 
 - ### Machine Learning
 	
     
 	- [Zillow house price prediction](https://github.com/zhaoshijie1248/Capstone-zillow-prediction)
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib,_ 
+		_Tools: scikit-learn, Pandas, Seaborn, Matplotlib,_ 
 
 - ### Natural Language Processing
 
 	 
     
-    _Tools: NLTK, Scikit-learn, XGBoost, Flask, Plotly_
+   	 _Tools: NLTK, Scikit-learn, XGBoost, Flask, Plotly_
 
 - ### Computer Vision
   - [Cell Segmentation Using Yolo V8 With Deployment] ()
@@ -37,7 +40,7 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
     - [NYC Taxi Bigquery](https://github.com/zhaoshijie1248/NYC-Taxi-Bigquery):
     - [Twitter Big Data Pipeline](https://github.com/zhaoshijie1248/Twitter-Big-Data-Pipeline):
 
-    _Tools: xxx_
+    	_Tools: xxx_
 
 - ### Data Analysis and Visualisation
 
