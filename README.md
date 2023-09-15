@@ -14,10 +14,11 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 ## Projects
 
 - ### End to End project with Deployment
-    - [Deploying ML models as web service to cloud](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment)
+    - [Deploying ML models as Web Application on AWS EC2 Using Flask, Docker and CI/CD](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment): Student performance web application using predicting algorithms, including Random Forest, Decision Tree, Gradient Boosting, Linear Regression, XGBRegressor, CatBoosting Regressor, AdaBoost Regressor.
+      
     - [Movie Recommendation Web Application](https://github.com/zhaoshijie1248/Movie-Recommend)
  
-      _Tools: scikit-learn, Pandas, Seaborn, Matplotlib,_ 
+      _Tools: Python, Flask, AWS, Docker, CI/CD, Streamlit_ 
 
 - ### Machine Learning
 	
