@@ -16,17 +16,18 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 - ### End to End project with Deployment
 	 _Tools: AWS EC2, Docker, CI/CD, Flask, Streamlit, Heroku_
  
-    - [Deploying ML models as Web Application on AWS EC2 Using Flask, Docker and CI/CD](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment):
-
-		This project encompasses the development of a user-friendly web application for predicting student performance using various regression algorithms (Random Forest, Decision Tree, Gradient Boosting, Linear Regression, XGBRegressor, CatBoosting Regressor, AdaBoost Regressor). The deployment on AWS EC2, coupled with a CI/CD pipeline and Docker containers, ensures that the application is accessible, scalable, and maintainable, making it a valuable tool for educational institutions and stakeholders.
-
-		<img src="img/student.png" width="70%">
       
     - [Movie Recommendation Web Application](https://github.com/zhaoshijie1248/Movie-Recommend)
     
 		Movie Magic Recommender is an end-to-end machine learning project that focuses on creating a user-friendly movie recommendation system using content-based filtering. This project leverages the power of Streamlit for creating an interactive and visually appealing user interface and deploys the application on Heroku for easy access.
 
 		<img src="img/movie.png" width="70%">
+
+  	- [Deploying ML models as Web Application on AWS EC2 Using Flask, Docker and CI/CD](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment):
+
+		This project encompasses the development of a user-friendly web application for predicting student performance using various regression algorithms (Random Forest, Decision Tree, Gradient Boosting, Linear Regression, XGBRegressor, CatBoosting Regressor, AdaBoost Regressor). The deployment on AWS EC2, coupled with a CI/CD pipeline and Docker containers, ensures that the application is accessible, scalable, and maintainable, making it a valuable tool for educational institutions and stakeholders.
+
+		<img src="img/student.png" width="70%">
       
  
       		
