@@ -28,7 +28,9 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 		This project aims to engineer a scalable, reproducible ML pipeline utilizing Poetry for dependency management, DVC for data and
  model versioning, FastAPI for serving model predictions through a REST API
 
-		<img src="img/mlpipeline.png" > 
+		<img src="img/pipeline.png" >
+                <img src="img/hyperparameter-tuning.png" >
+                <img src="img/predictionresult.png" >
   
 	 _Tools: Poetry, DVC, FastAPI_
   
@@ -37,17 +39,18 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
     
 		Movie Magic Recommender is an end-to-end machine learning project that focuses on creating a user-friendly movie recommendation system using content-based filtering. This project leverages the power of Streamlit for creating an interactive and visually appealing user interface and deploys the application on Heroku for easy access.
 
-		<!--<img src="img/movie.png" width="70%"> -->
+		<img src="img/movie.png"> 
 
-		_Tools: Poetry, DVC, FastAPI_
+		_Tools: Python, Streamlit_
 
     
 	- [Zillow house price prediction](https://github.com/zhaoshijie1248/Capstone-zillow-prediction)
 
    		This project aims to improve Zillow's house price prediction model by addressing a serious missing data problem through K-Nearest Neighbors (KNN) imputation. The primary focus of this project revolves around comprehensive data cleaning, feature engineering, and the application of various feature selection techniques to reduce dimensionality and enhance the accuracy of the predictive model.
 
-   		<!--<img src="img/zillow.png" width="70%"> -->
-   		_Tools: scikit-learn, Pandas, Seaborn, Matplotlib,_
+   		<img src="img/zillow_ml.png" > 
+     
+   		_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
 	
 
@@ -57,7 +60,7 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 
    		We finetune WizardCoder, an LLM trained specifically on the ”language” of code in order to perform this binary classification. We use the QLoRA method in order to significantly cut down on the runtime and hardware requirements of finetuning the 13b parameter model. It turns out that quantizing the model led to reducing our memory footprint by a factor of 4(around 26gb for the full model, and only around 6gb whenit was quantized). We obtain a best ROC AUC of 0.72 and a best F1 Score of 0.66. Further, we perform experimentation on two hyperparameters, namely sequence length and the inclusion of large functions.
 
-   		<!--<img src="img/zillow.png" width="70%"> -->
+   		<img src="img/lora.png" > 
     
  		 _Tools: transformers, peft, bitsandbytes_
 
@@ -65,7 +68,7 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 
    		This project aims to provide a user-friendly web application to analyze the sentiment of posts from crypto-related Key Opinion Leaders (KOLs), helping users make informed decisions effectively. Leveraging prompt engineering, I created prompt templates for ChatGPT and utilized the LangChain API to automatically compute sentiment score. The application visualizes the data and trend line charts using Streamlit, offering an intuitive interface for easy interaction with the sentiment analysis tool. This ensures a seamless and effortless user experience, enabling users to engage with the sentiment analysis application efficiently.
 
-   		<!--<img src="img/zillow.png" width="70%"> -->
+   		<img src="img/crypto.png" > 
     
  		 _Tools: GPT3.5, Langchain, tweety_
 
