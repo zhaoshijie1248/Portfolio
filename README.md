@@ -1,16 +1,4 @@
 
-# Data Science Portfolio Repository
-
-Welcome to the Data Science Portfolio repository! This repository showcases various data science projects and analyses that I have worked on, demonstrating my skills and expertise in the field of data science.
-
-
-
-## Introduction
-
-In this repository, you will find a collection of data science projects that cover a wide range of topics, including machine learning, deep learning, data analysis, big data & cloud and more. Each project is contained in its own directory with a dedicated README file that provides an overview of the project, the data sources used, methodologies applied, and the results obtained.
-
-Data science is an ever-evolving field, and this portfolio aims to demonstrate my ability to tackle real-world problems, apply data-driven insights, and communicate findings effectively.
-
 ## Projects
 - ### Natural Language Processing
 
