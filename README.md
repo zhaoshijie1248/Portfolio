@@ -18,16 +18,17 @@ Data science is an ever-evolving field, and this portfolio aims to demonstrate m
 
 		This project encompasses the development of a user-friendly web application for predicting student performance using various regression algorithms (Random Forest, Decision Tree, Gradient Boosting, Linear Regression, XGBRegressor, CatBoosting Regressor, AdaBoost Regressor). The deployment on AWS EC2, coupled with a CI/CD pipeline and Docker containers, ensures that the application is accessible, scalable, and maintainable, making it a valuable tool for educational institutions and stakeholders.
 
-		<!-- <img src="img/student.png" width="70%"> -->
+		<img src="img/student.png" alt="image" />
+		<img src="img/image.png" alt="image" />
 
-	 _Tools: AWS EC2, Docker, CI/CD, Flask, Streamlit, Heroku_
+	 _Tools: Python, Flask, Docker, AWS ECR/EC2, CI/CD_
 
-   - [Production-ready Machine Learning pipeline](https://github.com/zhaoshijie1248/ML_pipeline)):
+   - [Production-ready Machine Learning pipeline](https://github.com/zhaoshijie1248/ML_pipeline):
 
 		This project aims to engineer a scalable, reproducible ML pipeline utilizing Poetry for dependency management, DVC for data and
  model versioning, FastAPI for serving model predictions through a REST API
 
-		<!-- <img src="img/mlpipeline.png" width="70%"> -->
+		<img src="img/mlpipeline.png" > 
   
 	 _Tools: Poetry, DVC, FastAPI_
   
