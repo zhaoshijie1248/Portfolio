@@ -54,11 +54,11 @@
       
     - [Simple Movie Recommendation System Using Cosine Similarity](https://github.com/zhaoshijie1248/Movie-Recommend)
     
-		Movie Magic Recommender is an end-to-end machine learning project that focuses on creating a user-friendly movie recommendation system using content-based filtering. This project leverages the power of Streamlit for creating an interactive and visually appealing user interface and deploys the application on Heroku for easy access.
+		Movie Magic Recommender focuses on creating a user-friendly movie recommendation system using content-based filtering. This project leverages the power of Streamlit for creating an interactive and visually appealing user interface and deploys the application on Heroku for easy access.
 
 		<img src="img/movie.png"> 
 
-		_Tools: Python, Streamlit_
+		_Tools: Python, Streamlit, Heroku_
 
     
 	- [Zillow house price prediction](https://github.com/zhaoshijie1248/Capstone-zillow-prediction)
