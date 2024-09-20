@@ -52,7 +52,7 @@
 		 _Tools: Poetry, DVC, FastAPI_
   
       
-    - [Movie Recommendation Web Application](https://github.com/zhaoshijie1248/Movie-Recommend)
+    - [Simple Movie Recommendation System Using Cosine Similarity](https://github.com/zhaoshijie1248/Movie-Recommend)
     
 		Movie Magic Recommender is an end-to-end machine learning project that focuses on creating a user-friendly movie recommendation system using content-based filtering. This project leverages the power of Streamlit for creating an interactive and visually appealing user interface and deploys the application on Heroku for easy access.
 
