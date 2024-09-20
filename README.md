@@ -19,6 +19,13 @@
  		 _Tools: GPT3.5, Langchain, tweety_
 
 - ### Machine Learning
+   - [Deploying ML models as Web Application on AWS EC2 Using Flask, Docker and CI/CD](https://github.com/zhaoshijie1248/Customer-Churn-Model-for-Music-Streaming-App-using-AWS-Sagemaker):
+     		This project involved developing a churn prediction model for a music streaming application using AWS SageMaker. The pipeline encompassed data cleaning and preprocessing with SageMaker Data Wrangler, feature engineering, and model building with XGBoost. Hyperparameter tuning was conducted using SageMaker Automatic Tuning to optimize model performance. The final model was deployed via Batch Transform for batch predictions, with SageMaker Clarify integrated to provide model explainability. The solution utilized multiple AWS services, including S3 for data storage and SageMaker Studio for managing the full machine learning lifecycle.
+
+     		<img src="img/music.png" alt="image" />
+
+     _Tools: Python, AWS_
+    
    - [Deploying ML models as Web Application on AWS EC2 Using Flask, Docker and CI/CD](https://github.com/zhaoshijie1248/E2E_mlproject_with_deployment):
 
 		This project encompasses the development of a user-friendly web application for predicting student performance using various regression algorithms (Random Forest, Decision Tree, Gradient Boosting, Linear Regression, XGBRegressor, CatBoosting Regressor, AdaBoost Regressor). The deployment on AWS EC2, coupled with a CI/CD pipeline and Docker containers, ensures that the application is accessible, scalable, and maintainable, making it a valuable tool for educational institutions and stakeholders.
